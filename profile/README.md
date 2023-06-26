@@ -28,7 +28,7 @@ Toold and Technologies.
 - Apache Spark 
 - Apache Kafka 
 - AWS Redshift 
-- Apache AIrflow 
+- Apache Airflow 
 - Google Bigquery
 - dbt(data build tool)
 - AWS S3, Glue, Elastic Search etc etc 
