@@ -3,7 +3,7 @@
 
 We are an “on-demand” tech sourcing platform connecting businesses with verified talents. You can also enroll in our 6 months BootCamp.  
 
-At [LuxDevHQ](https://twitter.com/LuxDevHQ), you can hire or source best engineers, learn data technologies through our hands on bootcamp.  
+At [LuxDevHQ](https://twitter.com/LuxDevHQ), you can hire or source best engineers, learn data technologies through our hands-on bootcamp.  
 
 ---  
 
@@ -14,8 +14,8 @@ Programming Languages.
 - Go-Lang
 - JavaScript 
 - TypeScript
-- R programminf Language  
-- Structured query language (SQL)  
+- R programming Language  
+- Structured Query Language (SQL)  
 
 --- 
 
