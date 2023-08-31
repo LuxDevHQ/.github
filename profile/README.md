@@ -37,9 +37,10 @@ Toold and Technologies.
 
 
 CONNECT
-[GitHub](https://github.com/LuxDevHQ) [Twitter](https://twitter.com/LuxDevHQ) [LinkedIn](https://www.linkedin.com/company/luxdevhq/) [Slack](https://join.slack.com/t/luxdevcommunity/shared_invite/zt-1urbt4o3o-CbXeyapmIS_rBEajXOjJyw) [YouTube](https://www.youtube.com/channel/UCS-zdr8_cuUGNvOhLKUkjZQ)
+[GitHub ](https://github.com/LuxDevHQ) [Twitter](https://twitter.com/LuxDevHQ) [LinkedIn ](https://www.linkedin.com/company/luxdevhq/) [Slack](https://join.slack.com/t/luxdevcommunity/shared_invite/zt-1urbt4o3o-CbXeyapmIS_rBEajXOjJyw) [YouTube](https://www.youtube.com/channel/UCS-zdr8_cuUGNvOhLKUkjZQ)
 
 --- 
+
 
 CODE OF Conduct. 
 - https://github.com/LuxDevHQ/Code-Of-Conduct
