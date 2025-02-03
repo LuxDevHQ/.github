@@ -1,47 +1,16 @@
-# **👋  Welcome to LuxDevHQ GitHub org**
----
+### 👋 Welcome to LuxDevHQ GitHub Organization  
 
-We are an “on-demand” tech sourcing platform connecting businesses with verified talents. You can also enroll in our 6 months BootCamp.  
+## 🚀 About LuxDevHQ  
+**LuxDevHQ** is a leading platform specializing in **data technologies and cloud solutions**, helping individuals and businesses stay ahead in the ever-evolving tech landscape.  
 
-At [LuxDevHQ](https://twitter.com/LuxDevHQ), you can hire or source best engineers, learn data technologies through our hands-on bootcamp.  
+We operate as both:  
+✅ **A Data Talent Sourcing Platform** – Connecting businesses with **verified, top-tier data and cloud engineering professionals**.  
+✅ **A Cutting-Edge Training Hub** – Offering a **comprehensive 6-month BootCamp** that prepares learners for real-world careers in **data engineering, analytics, and cloud computing**.  
 
----  
+## 🎓 LuxDevHQ BootCamp  
+Our **6-month immersive BootCamp** is designed to equip learners with **industry-ready skills** through:  
 
+- **4 months of expert-led training** covering **SQL, Python, Big Data, and Cloud Technologies**.  
+- **2 months of hands-on internship** where participants apply their skills in **real-world projects**.  
 
-Programming Languages.
-- Scala  
-- Python
-- Go-Lang
-- JavaScript 
-- TypeScript
-- R programming Language  
-- Structured Query Language (SQL)  
-
---- 
-
-Toold and Technologies.
-- Django 
-- Flask 
-- Angular 
-- React 
-- Snowflake
-- Apache Spark 
-- Apache Kafka 
-- AWS Redshift 
-- Apache Airflow 
-- Google Bigquery
-- dbt(data build tool)
-- AWS S3, Glue, Elastic Search etc etc 
-
----
-
-
-CONNECT
-[GitHub ](https://github.com/LuxDevHQ) [Twitter](https://twitter.com/LuxDevHQ) [LinkedIn ](https://www.linkedin.com/company/luxdevhq/) [Slack](https://join.slack.com/t/luxdevcommunity/shared_invite/zt-1urbt4o3o-CbXeyapmIS_rBEajXOjJyw) [YouTube](https://www.youtube.com/channel/UCS-zdr8_cuUGNvOhLKUkjZQ)
-
---- 
-
-
-CODE OF Conduct. 
-- https://github.com/LuxDevHQ/Code-Of-Conduct
-
+We bridge the gap between **learning and employment** by providing **mentorship, live projects, and career support** to ensure our graduates are **job-ready**.  
