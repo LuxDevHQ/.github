@@ -1,6 +1,6 @@
 ### 👋 Welcome to LuxDevHQ GitHub Organization  
 
-## 🚀 About LuxDevHQ  
+## About LuxDevHQ  
 **LuxDevHQ** is a leading platform specializing in **data technologies and cloud solutions**, helping individuals and businesses stay ahead in the ever-evolving tech landscape.  
 
 We operate as both:  
