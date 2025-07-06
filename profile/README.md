@@ -1,7 +1,10 @@
 ### 👋 Welcome to LuxDevHQ GitHub Organization  
+ 
+**LuxDevHQ** is a results-driven upskilling bootcamp that empowers individuals and businesses with cutting-edge skills in data technologies and cloud solutions. Our mission is to bridge the gap between industry needs and talent readiness through hands-on, project-based learning.
 
-### About LuxDevHQ  
-**LuxDevHQ** is a leading platform specializing in **data technologies and cloud solutions**, helping individuals and businesses stay ahead in the ever-evolving tech landscape.  
+At LuxDevHQ, learners are taught, guided, and mentored by experienced engineers and scientists from top-tier tech companies both locally and globally.
+
+Our graduates have achieved up to a 135% salary increase and a 8.25X return on investment, making LuxDevHQ one of the most impactful tech education platforms in the region.
 
 We operate as both:  
 ✅ **A Data Talent Sourcing Platform** – Connecting businesses with **verified, top-tier data and cloud engineering professionals**.  
